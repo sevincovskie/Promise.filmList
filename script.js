@@ -139,5 +139,5 @@ const movie = [
             </div>
         </div>
     `)
-  }).catch(err => console.log(err));
+  }).join(" ").catch(err => console.log(err));
     
