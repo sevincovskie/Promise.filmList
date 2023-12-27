@@ -1,0 +1,20 @@
+
+
+.card-body{
+    background-color: #eef0f1;
+}
+
+p{
+    width: 310px;
+}
+
+h4{
+    width: 210px;
+}
+
+.card-img {
+    gap:10px;
+    width: 10px;
+    height: 10px;
+    object-fit: cover;
+}
