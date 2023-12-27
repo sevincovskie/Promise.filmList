@@ -138,6 +138,6 @@ const movie = [
                 <p class="card-text">Storyline: ${item.about}</p>
             </div>
         </div>
-    `)
-  }).join(" ").catch(err => console.log(err));
+    `).join("");
+  }).catch(err => console.log(err));
     
